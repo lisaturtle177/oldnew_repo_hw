@@ -1,0 +1,68 @@
+
+body{
+    margin: 0px;
+    background-image: url("img/bg.jpeg")
+
+
+}
+
+
+#header{
+    background-color: #93A8BF;
+    color: #FFFFFF;
+    padding-top: 20px;
+    height: 200px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 24px;
+    margin: 15px;
+}
+
+.section{
+    background-color: #FFFFFF;
+    padding: 5px;
+    margin-top: 20;
+    margin-bottom: 10px;
+}
+
+.pork{
+    background-image: url('img/kfd_porkbellyburntends_06.jpeg');
+
+}
+
+a:link{
+    color: green;
+}
+
+a:active{
+    color: black;
+}
+
+a:hover{
+    color: red;
+
+}
+
+a:visited{
+    color: lightpink;
+
+}
+
+.boldtext{
+    font-weight: bold;
+}
+
+.blink_me {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+.link{
+    background-color: #6897bb;
+}
+
