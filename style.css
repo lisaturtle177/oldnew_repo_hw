@@ -1,22 +1,36 @@
 
 body{
     margin: 0px;
-    background-image: url("img/bg.jpeg")
+    background-image: url("img/img.jpeg")
 
 
 }
 
 
-#header{
-    background-color: #93A8BF;
-    color: #FFFFFF;
+div #header{
+    background-color: blue;
+    color: white;
     padding-top: 20px;
-    height: 200px;
+    padding-bottom: 10px;
+    height: 20px;
     text-align: center;
     text-transform: uppercase;
     font-size: 24px;
     margin: 15px;
 }
+
+.section{
+    background-color: #a9b7c6;
+}
+
+h3 {
+    text-transform: uppercase;
+    color: deeppink;
+
+div.instructions{
+    background-color: aquamarine;
+}
+
 
 .section{
     background-color: #FFFFFF;
@@ -26,7 +40,7 @@ body{
 }
 
 .pork{
-    background-image: url('img/kfd_porkbellyburntends_06.jpeg');
+    background-image: url('img.jpeg');
 
 }
 
